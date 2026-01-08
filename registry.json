@@ -1,12 +1,25 @@
 {
   "version": "v1",
+  "schema": {
+    "product_name": "string - Display name of the data product",
+    "domain": "string - Business domain (analytics, platform, marketing, etc.)",
+    "owner_team": "string - Team responsible for this data product",
+    "source_repo": "string - GitHub repo URL where this PRD originated",
+    "prd_path": "string - Path to PRD markdown file relative to repo root",
+    "tags": "array<string> - Searchable tags for discovery",
+    "created_at": "string - ISO 8601 timestamp",
+    "updated_at": "string - ISO 8601 timestamp"
+  },
   "items": [
     {
       "product_name": "Product Usage Analytics",
+      "domain": "analytics",
       "owner_team": "TBD",
       "source_repo": "TBD",
-      "prd_path": "prds/product-usage-analytics.md",
-      "tags": ["analytics", "product", "usage"]
+      "prd_path": "prds/analytics/product-usage-analytics.md",
+      "tags": ["analytics", "product", "usage", "engagement"],
+      "created_at": "2025-01-08T00:00:00Z",
+      "updated_at": "2025-01-08T00:00:00Z"
     }
   ]
 }
