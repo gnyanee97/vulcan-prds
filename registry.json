@@ -1,0 +1,12 @@
+{
+  "version": "v1",
+  "items": [
+    {
+      "product_name": "Product Usage Analytics",
+      "owner_team": "TBD",
+      "source_repo": "TBD",
+      "prd_path": "prds/product-usage-analytics.md",
+      "tags": ["analytics", "product", "usage"]
+    }
+  ]
+}
