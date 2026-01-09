@@ -17,9 +17,24 @@
       "owner_team": "TBD",
       "source_repo": "TBD",
       "prd_path": "prds/analytics/product-usage-analytics.md",
-      "tags": ["analytics", "product", "usage", "engagement"],
+      "tags": [
+        "analytics",
+        "product",
+        "usage",
+        "engagement"
+      ],
       "created_at": "2025-01-08T00:00:00Z",
       "updated_at": "2025-01-08T00:00:00Z"
+    },
+    {
+      "product_name": "Marketing Campaign Performance Analytics",
+      "domain": "marketing",
+      "owner_team": "",
+      "source_repo": "",
+      "prd_path": "prds/marketing/marketing-campaign-performance-analytics.md",
+      "tags": [],
+      "created_at": "2026-01-09T06:47:36.389Z",
+      "updated_at": "2026-01-09T06:47:36.391Z"
     }
   ]
 }
